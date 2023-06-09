@@ -1,6 +1,6 @@
 # 💫 Hey there, I'm **Botond**:
 
-I'm a passionate programmer with a love for **C++**, **Java**, **Python** and more.
+I'm a passionate programmer with a love for **C**, **C++**, **Java**, **Python** and more.
 
 When I'm not coding, I enjoy skiing, cycling, and driving, seeking adventure.
 
